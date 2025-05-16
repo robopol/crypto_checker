@@ -3,7 +3,7 @@
 A desktop application to track cryptocurrency prices, set price alerts, and view price history charts. It utilizes the CoinMarketCap API for live price data and CoinGecko API for historical chart data.
 
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](Screenshot.png)
 
 
 ## Features
